@@ -168,6 +168,14 @@
 .responsive-image1 img {
   width: 50vw;
   border-radius: 20px;
+  animation: shake 8s ease-in-out infinite;
+}
+
+@keyframes shake {
+
+  25% { transform: translateX(-3.5px) rotate(-2.5deg); }
+  75% { transform: translateX(3.5px) rotate(2.5deg); }
+
 }
 
 /* SECOND CONTAINER */
