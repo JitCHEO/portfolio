@@ -20,7 +20,7 @@
 - I make the nav-bar to be able to jump into each individual section within the index.html page but also have a 'blog' on the nav-bar that bring you to others link. By having so, i can remove the 'blog' features and make some changes to it easily when I have learned more skills.
 
 ### Sitemap
-- 
+- [Sitemap](../Sitemap.png)
 
 ### Screenshots
 - 
