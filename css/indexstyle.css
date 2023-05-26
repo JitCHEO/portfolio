@@ -172,10 +172,10 @@
 }
 
 @keyframes shake {
-
+  0% { transform: translateX(0); }
   25% { transform: translateX(-3.5px) rotate(-2.5deg); }
   75% { transform: translateX(3.5px) rotate(2.5deg); }
-
+  100% { transform: translateX(0); }
 }
 
 /* SECOND CONTAINER */
