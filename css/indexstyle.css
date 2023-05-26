@@ -28,7 +28,7 @@
 /* list a tags */
 .nav-bar li a {
   font-family: 'Alkatra', cursive;
-  font-size: 22px;
+  font-size: 1.375rem;
   text-decoration: none; 
   font-weight: bolder;
   color: #322F8A;
@@ -108,8 +108,8 @@
   display: flex;
   justify-content: center;
   padding: 10px 10px 10px 10px;
-  width: 64px;
-  height: 64px;
+  width: 4rem;
+  height: 4rem;
   transition: transform 0.5s ease-in-out;
 }
 
@@ -149,7 +149,7 @@
 #C1{
   font-family: 'Amatic SC', cursive;
   color: #BA8AD7;
-  font-size: 40px;
+  font-size: 2.5rem;
   text-decoration: underline 5px solid;
 }
 
@@ -190,7 +190,7 @@
 #C2_1 {
   font-family: 'Amatic SC', cursive;
   color:#98DADD;
-  font-size: 40px;
+  font-size: 2.5rem;
   font-weight: bolder;
   padding: 20px 10px 30px 10px;
   margin: 0px 0px 20px 0px;
@@ -242,7 +242,7 @@
 }
 
 #C3{
-  font-size: 40px;
+  font-size: 2.5rem;
   font-family: 'Amatic SC', cursive;
   text-decoration: underline 5px solid;
 }
