@@ -253,6 +253,7 @@
   color: #E5B1C0;
   transition: background-color 0.3s;
   display: inline-block;
+  font-family: 'Amatic SC', cursive;
   padding: 10px 10px 10px 10px;
   font-size: 20px;
 }
