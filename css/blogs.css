@@ -1,0 +1,264 @@
+
+/* DEFAULTS */
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    background-color: #F4EEF1;
+}
+
+/* TOP OF THE WEB */
+.header{
+    text-align: center;
+    background-color: transparent;
+    padding: 30px 30px 30px 30px;
+    color: red;
+    border-radius: 5px;
+    text-decoration: underline;
+    font-family: 'Pacifico', cursive;
+}
+
+.header h2 a {
+  color: inherit;
+}
+
+/* HOVER effect to return to my INDEX.HTML */
+.header h2:hover  {
+  transform: scale(1.3);
+  cursor: pointer;
+  color: #7B42C1;
+}
+
+
+/* TO GET CONTAINERS TO LINE UP */
+.container-row{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/* TO STANDARDISE EACH CONTAINER */
+.container{
+  box-sizing: border-box;
+  margin: 10px 10px 10px 10px;
+  width: 50%;
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+/* MY FAMILY BLOGS CONTAINER1 */
+.container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  margin: 20px 20px 20px 20px;
+}
+
+.container1 h1, p {
+    padding: 10px 20px 10px 20px;
+}
+
+.responsive-image1 {
+    display: flex;
+    padding: 20px 20px 20px 20px;
+    justify-content: center;
+    align-items: center;
+}
+  
+.responsive-image1 img {
+  width: 15vw;
+  border-radius: 20px;
+}
+
+
+/* MY VEHICLE BLOGS CONTAINER2 */
+.container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  margin: 20px 20px 20px 20px;
+}
+
+.container2 h1, p {
+    padding: 10px 20px 10px 20px;
+}
+
+.responsive-image2 {
+    display: flex;
+    padding: 20px 20px 20px 20px;
+    justify-content: center;
+    align-items: center;
+}
+  
+.responsive-image2 img {
+  width: 15vw;
+  border-radius: 20px;
+}
+
+
+/* DEVELOPER DRIVE CONTAINER3 */
+.container3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  margin: 20px 20px 20px 20px;
+}
+
+.container3 h1, p {
+  padding: 10px 20px 10px 20px;
+}
+
+.responsive-image3 {
+  display: flex;
+  padding: 20px 20px 20px 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.responsive-image3 img {
+  width: 20vw;
+  border-radius: 20px;
+}
+
+/* Code NEWBIE CONTAINER6 */
+.container4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  margin: 20px 20px 20px 20px;
+}
+
+.container4 h1, p {
+  padding: 10px 20px 10px 20px;
+}
+
+.responsive-image4 {
+  display: flex;
+  padding: 20px 20px 20px 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.responsive-image4 img {
+  width: 20vw;
+  border-radius: 20px;
+}
+
+/* WEALTH CONTAINER5 */
+.container5{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  margin: 20px 20px 20px 20px;
+  /* background-color: lightsteelblue; */
+}
+
+.container5 h1, p {
+  padding: 10px 20px 10px 20px;
+}
+
+.responsive-image5 {
+  display: flex;
+  padding: 20px 20px 20px 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.responsive-image5 img {
+  width: 15vw;
+  border-radius: 20px;
+}
+
+  /* Life of a Homeschooler CONTAINER6 */
+.container6{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  margin: 20px 20px 20px 20px;
+  /* background-color: lightsalmon; */
+}
+
+.container6 h1, p {
+  padding: 10px 20px 10px 20px;
+}
+
+.responsive-image6 {
+  display: flex;
+  padding: 20px 20px 20px 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.responsive-image6 img {
+  width: 15vw;
+  border-radius: 20px;
+} 
+
+/* FOOTER */
+footer {
+  font-family: 'Pacifico', cursive;
+	padding: 20px 10px 20px 10px;
+  font-weight: bold;
+	text-align: center;
+  border-radius: 5px;
+  color: red;
+}
+
+footer {
+  background-color: transparent;
+}
+
+/* button on each container */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 20px 20px 20px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  background: #F5B7AC;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+  
+}
+
+.button:hover {
+  background-color: #65F5E4;
+  
+}
+
+.button:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+  transform: translateX(4px);
+}
+
+
+
+
+
+
+
+
+

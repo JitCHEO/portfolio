@@ -1,0 +1,118 @@
+/* default */
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+  }
+
+/* HEADER FOR MY BLOG */
+header {
+	background-color: #C7A4DE;
+	border-radius: 5px;
+	padding: 20px 20px 20px 20px; 
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	font-family: 'Satisfy', cursive;
+}
+
+.date{
+	color: #34362D;
+	font-weight: bold;
+}
+
+.header2 h1 {
+	color:  #34362D;
+	font-size: 36px;
+
+}
+
+/* MAIN BODY OF CAR */
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding: 30px 30px 30px 30px;
+
+}
+
+.container h1 {
+	font-size: 32px;
+	color: #EB452A;
+	padding: 0px 20px 50px 20px;
+}
+
+.container p {
+	font-size: 22px;
+	font-weight: 900;
+	color: #8C613C;
+	padding: 30px 30px 30px 30px;
+	font-family: 'Nunito', sans-serif;
+}
+
+.responsive-image1 {
+	display: flex;
+	padding: 30px 30px 40px 30px;
+	justify-content: center;
+	align-items: center;
+  }
+  
+.responsive-image1 img {
+	width: 60vw;
+	border-radius: 20px;
+	animation: moveRight 8s linear infinite;
+  }
+
+/* ANIMATIONS  */
+@keyframes moveRight {
+
+	0%, 100% {
+	  transform: translateX(-25px);
+	}
+	50% {
+	  transform: translateX(25px);
+  }
+  }
+
+/* Images of car and bikes */
+.section1 {
+	/* position: absolute; */
+	display: flex;
+	width: auto ;
+	justify-content: center;
+	align-items: flex-start;
+	margin-top: 0px;
+	border-radius: 20px
+  }
+  
+.image1,
+.image2 {
+	width: 50%;
+	height: auto;
+	padding: 0px;
+	border-radius: 50px;
+}
+
+/* FOOTER */
+footer {
+	font-family: 'Pacifico', cursive;
+	background-color: #C7A4DE;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+/* media query */
+@media screen and (max-width: 768px) {
+	.container {
+	  background-color:#BEF2FA;
+	  display: flex;
+	  align-items: center;
+	}
+}
+
+	
+  
+  
