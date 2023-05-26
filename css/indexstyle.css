@@ -242,8 +242,6 @@
 }
 
 #C3{
-  /* padding-top: 30px;
-  padding-bottom: 20px; */
   font-size: 40px;
   font-family: 'Amatic SC', cursive;
   text-decoration: underline 5px solid;
@@ -253,7 +251,7 @@
   color: #E5B1C0;
   transition: background-color 0.3s;
   display: inline-block;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Lexend', sans-serif;
   padding: 10px 10px 10px 10px;
   font-size: 20px;
 }
