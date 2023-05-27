@@ -60,7 +60,6 @@ article p {
 
 /* Images of car and bikes */
 .section1 {
-	/* position: absolute; */
 	display: flex;
 	width: auto ;
 	justify-content: center;
