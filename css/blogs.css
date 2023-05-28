@@ -256,6 +256,18 @@ footer {
 
 
 
+/* Another HOVER option that i can swap to if i wanted */
+/* .button:hover,
+.button:focus {
+  outline-offset: 5px;
+  outline-width: 5px;
+  outline-style: dotted;
+  outline-color: red;
+  transition: 0.2s;
+} */
+
+
+
 
 
 
