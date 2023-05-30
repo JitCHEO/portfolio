@@ -6,7 +6,7 @@
 
 [GitHub](https://github.com/JitCHEO)
 
-[Presentation video]()
+[Presentation video](https://youtu.be/n-OAVcSbQlI)
 
 
 ## Description of my portfolio website: 
