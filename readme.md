@@ -23,8 +23,8 @@
 - [Sitemap](../Sitemap.png)
 
 ### Screenshots
-- ![Wireframe portfolio](../Wireframe%20portfolio.pdf)
-- ![Wireframe blogs](../Wireframe%20blogs.pdf)
+- ![Wireframe portfolio](../Desktop%20portfolio%20wireframe.png)
+- ![Wireframe blogs](../Mobile%20blogs%20wireframe.png)
 
 ### Target audience
 - Targeting potential employers that will be impress with my beginner layout and writing and descriptions.
@@ -33,3 +33,5 @@
 - HTML
 - CSS
 - Animation
+
+
