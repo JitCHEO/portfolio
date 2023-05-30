@@ -23,7 +23,7 @@
 - [Sitemap](../Sitemap.png)
 
 ### Screenshots
-- ![Wireframe portfolio](../Desktop%20portfolio%20wireframe.png)
+- ![Wireframe portfolio](../Desktop%20blogs%20wireframe.png)
 - ![Wireframe blogs](../Mobile%20blogs%20wireframe.png)
 
 ### Target audience
