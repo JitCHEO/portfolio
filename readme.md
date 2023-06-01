@@ -34,4 +34,9 @@
 - CSS
 - Animation
 
+### References for coding
+- ChatGPT
+- w3s (https://www.w3schools.com/)
+
+
 
