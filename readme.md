@@ -37,6 +37,13 @@
 ### References for coding
 - ChatGPT
 - w3s (https://www.w3schools.com/)
+- Google font (https://fonts.google.com/)
+- Social icons (https://www.flaticon.com/)
+- Color1 (https://color.adobe.com/create/color-wheel)
+- Color2 (https://www.toptal.com/designers/colourcode/freebuild-color-builder)
+- Sitemap generator (https://app.diagrams.net/)
+- Recordings (https://scre.io/)
+
 
 
 
