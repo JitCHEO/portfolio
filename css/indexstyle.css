@@ -52,6 +52,7 @@
   background-attachment: fixed;
 }
 
+/* when screen size changes */
 @media screen and (min-width: 30px) {
   .landing-page {
    height: 100vh;
@@ -84,7 +85,7 @@
   padding: 10px 20px 10px 20px;
 }
 
-/* h1 at the landing page */
+/* h1 ANIMATIONS at the landing page */
 .rocking-text {
   animation: rockingAnimation 3s ease-in-out infinite;
 }
@@ -117,14 +118,6 @@
   transform: scale(1.2);
 }
 
-/* CONTAINERS in general  */
-/* .container{
-  background-image: url('../styles/img/laptopbackground.jpeg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-} */
 
 /* Container1 */
 /* ABOUT MYSELF */
@@ -171,6 +164,7 @@
   animation: shake 8s ease-in-out infinite;
 }
 
+/* ANIMATIONS for image1 */
 @keyframes shake {
   /* 0% { transform: translateX(0); } */
   25% { transform: translateX(-3.5px) rotate(-2.5deg); }
@@ -284,7 +278,7 @@
   animation: moveRight 8s linear infinite;
 }
 
-/* ANIMATIONS  */
+/* ANIMATIONS for image3 */
 @keyframes moveRight {
 
   0%, 100% {
