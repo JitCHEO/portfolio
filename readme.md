@@ -11,10 +11,10 @@
 
 ## Description of my portfolio website: 
 ### Purpose
-- To understand and getting HTML & CSS to work together to create a functional front end website.
+- To be easily readable and accessible by user to get to know/understand me and clicking through my first website.
 
 ### Functionality 
-- Short and easy to navigate.
+- Short and easy to navigat/to use.
 
 ### Features
 - I make the nav-bar to be able to jump into each individual section within the index.html page but also have a 'blog' on the nav-bar that bring you to others link. By having so, i can remove the 'blog' features and make some changes to it easily when I have learned more skills.
