@@ -27,7 +27,7 @@ header {
 
 }
 
-/* MAIN BODY OF CAR */
+/* MAIN BODY OF FAMILY*/
 .container {
 	display: flex;
 	justify-content: center;
@@ -64,7 +64,7 @@ header {
 	animation: moveRight 8s linear infinite;
   }
 
-/* ANIMATIONS  */
+/* ANIMATIONS for image */
 @keyframes moveRight {
 
 	0%, 100% {
@@ -75,7 +75,7 @@ header {
   }
   }
 
-/* Images of car and bikes */
+/* Images of family */
 .section1 {
 	display: flex;
 	width: auto ;

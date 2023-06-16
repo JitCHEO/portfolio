@@ -6,7 +6,7 @@
 
 [GitHub](https://github.com/JitCHEO)
 
-[Presentation video]()
+[Presentation video](https://youtu.be/n-OAVcSbQlI)
 
 
 ## Description of my portfolio website: 
@@ -23,8 +23,8 @@
 - [Sitemap](../Sitemap.png)
 
 ### Screenshots
-- ![Wireframe portfolio](../Wireframe%20portfolio.pdf)
-- ![Wireframe blogs](../Wireframe%20blogs.pdf)
+- ![Wireframe portfolio](../Desktop%20blogs%20wireframe.png)
+- ![Wireframe blogs](../Mobile%20blogs%20wireframe.png)
 
 ### Target audience
 - Targeting potential employers that will be impress with my beginner layout and writing and descriptions.
@@ -33,3 +33,17 @@
 - HTML
 - CSS
 - Animation
+
+### References for coding
+- ChatGPT
+- w3s (https://www.w3schools.com/)
+- Google font (https://fonts.google.com/)
+- Social icons (https://www.flaticon.com/)
+- Color1 (https://color.adobe.com/create/color-wheel)
+- Color2 (https://www.toptal.com/designers/colourcode/freebuild-color-builder)
+- Sitemap generator (https://app.diagrams.net/)
+- Recordings (https://scre.io/)
+
+
+
+
